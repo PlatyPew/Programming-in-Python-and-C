@@ -1,1 +1,1 @@
-# Programming-in-Python-and-C
+# Programming in Python and C
